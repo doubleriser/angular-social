@@ -2,7 +2,7 @@
 
 Social website created with Angular 5, Angular-cli, MongoDB, Node.js, Express.js, Typescript, Bootstrap and Socket.io.
 
-![alt tag](/src/assets/Sans%20titre.png)
+
 
 ## Getting Started
 
